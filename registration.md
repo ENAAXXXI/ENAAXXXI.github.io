@@ -53,7 +53,8 @@ To register for the virtual ENAA XXXI conference please use the form below.
       <label for="spa">SPA associate</label><br>
       <input type="radio" id="other" name="waiver" value="other">
       <label for="other">Other</label><br>
-<input style="display:none;" type="text" size="75" name="otherAnswer" id="otherAnswer" />
+
+<textarea name="otherAnswer" id="otherAnswer" rows="4" cols="75"></textarea>
 <br>
   <button type="submit">Register</button>
 </form>

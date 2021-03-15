@@ -54,7 +54,7 @@ To register for the virtual ENAA XXXI conference please use the form below.
       <input type="radio" id="other" name="waiver" value="other">
       <label for="other">Other</label><br>
 
-<textarea name="otherAnswer" id="otherAnswer" rows="4" cols="75"></textarea>
+<textarea style="display:none" name="otherAnswer" id="otherAnswer" rows="4" cols="75"></textarea>
 <br>
   <button type="submit">Register</button>
 </form>

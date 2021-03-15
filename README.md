@@ -1,2 +1,2 @@
 # enaaxxxi
-Public site for ENAA XXXI
+Site for ENAA XXXI

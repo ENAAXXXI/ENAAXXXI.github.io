@@ -11,8 +11,8 @@ body {
 
 /* The hero image */
 .header-image {
-  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../assets/images/m57.png");
+  /* Use "linear-gradient" to add a darken background effect to the image. This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/m57.png");
 
   /* Set a specific height */
   height: 50%;

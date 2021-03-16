@@ -1,6 +1,6 @@
 # Encontro Nacional de Astronomia e Astrofísica - XXXI
 
-This year National Astronomy and Astrophysics Meeting, ENAA XXXI, is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA). Due to the extraordinary situation imposed on us by COVID-19 the conference will take place fully online.
+This year National Astronomy and Astrophysics Meeting, ENAA XXXI, is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA). Due to the ongoing COVID-19 pandemic the conference will take place fully online.
 
 ## Format
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
@@ -23,7 +23,18 @@ The fees will be used to create awards to be given to the best posters and talks
 - Science Communication & Education, and History of Astronomy
 
 ## Scientific Organizing Committee
-- TBD
+- Koraljka Muzic  (CENTRA/FCUL)
+- André Moitinho (CENTRA/FCUL, SPA)
+- Marina Cortês (IA/FCUL)
+- Rosa Doran (NUCLIO, Universidade de Coimbra)
+<!--
+Valério Ribeiro (Supernova, Aveiro)
+Gabriela Gilli (Sistema Solar, IA, Lisboa)
+João Rocha (Ast. Computacional, Evora)
+Elisabete da Cunha (Galaxias high-z/poeira/SED fitting)
+Sandra Raimundo (AGN/Universo local, DARK
+Zita Martins (Astrobiologia, IST)
+-->
 
 ## Organizing Committee 
 - Alberto Krone-Martins

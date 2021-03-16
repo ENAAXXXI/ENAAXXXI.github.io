@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 
-<!-- <div class="header-image">
-    <div class="header-text">
-      <h1>ENAA XXXI</h1>
-    </div>
-  </div> -->
 
-  <head>
+<head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,7 +12,14 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  </head>
+
+<div class="header-image">
+    <div class="header-text">
+      <h1>ENAA XXXI</h1>
+    </div>
+</div>
+
+</head>
   <body>
     <div class="wrapper">
       <header>
@@ -33,7 +35,7 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">View the Page on GitHub</a></p>
         {% endif %}
 
         <ul class="downloads">

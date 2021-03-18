@@ -6,7 +6,7 @@ This year National Astronomy and Astrophysics Meeting, ENAA XXXI, is organized b
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
 
 ## Fee
-The conference will have a registration fee of 10€ (with waivers for some participants). For more information see the [registration](./registration.md) page.
+The conference will have a registration fee of 10€ (with waivers for some participants). For more information see the [registration](./registration_gform.md) page.
 
 ## Awards 
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.

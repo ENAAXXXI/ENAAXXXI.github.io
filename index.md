@@ -12,12 +12,13 @@ The conference will have a registration fee of 10€ (with waivers for some part
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.
 
 ## Scientific topics
-- Solar & Stellar Physics
-- Galactic & Extragalactic Astronomy
+- Astrobiology
 - Astronomical Instrumentation
-- Planetary Science
 - Cosmology & Gravitation
+- Galactic & Extragalactic Astronomy
+- Planetary Science
 - Science Communication & Education, and History of Astronomy
+- Solar & Stellar Physics
 
 ## Scientific Organizing Committee
 - André Moitinho (CENTRA/FCUL, SPA; Galaxy)

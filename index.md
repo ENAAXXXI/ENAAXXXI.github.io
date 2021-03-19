@@ -1,6 +1,7 @@
-# Encontro Nacional de Astronomia e Astrofísica - XXXI
+# XXXI Encontro Nacional de Astronomia e Astrofísica
 
-This year National Astronomy and Astrophysics Meeting, ENAA XXXI, is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA). Due to the ongoing COVID-19 pandemic the conference will take place fully online during 8th-10th September 2021.
+The 31st edition of the National Astronomy and Astrophysics Meeting (ENAA XXXI) will be held as a virtual conference on 8th-10th September 2021. This meeting
+is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA).
 
 ## Format
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.

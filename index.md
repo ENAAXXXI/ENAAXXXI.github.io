@@ -13,34 +13,34 @@ The conference will have a registration fee of 10€ (with waivers for some part
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.
 
 ## Scientific topics
-- Astrobiology
+- Astrobiology & Astrochemistry
 - Astronomical Instrumentation
 - Cosmology & Gravitation
 - Galactic & Extragalactic Astronomy
-- Planetary Science
+- Planetary Science & Extrasolar planets
 - Science Communication & Education, and History of Astronomy
 - Solar & Stellar Physics
 
 ## Scientific Organizing Committee
-- André Moitinho (CENTRA/FCUL, SPA; Galaxy)
+- Ana Paulino-Afonso (co-Chair; CENTRA/IST; Observational Cosmology)
+- André Moitinho (CENTRA/FCUL, SPA; Galaxy, Data Mining)
+- David Sobral (co-Chair; U. Lancaster, SPA; Galaxy Evolution)
 - Elisabete da Cunha (ICRAR/University of Western Australia; Galaxy Evolution)
 - Koraljka Muzic  (CENTRA/FCUL; Star-formation)
-- Lluis Galbany (U. granada; Supernova/Transients)
+- Gabriela Gilli (IA/FCUL; Solar System)
+- Jorge Martins (IA/CAUP; Exoplanets)
+- Lluis Galbany (U. Granada; Supernova/Transients)
 - Marina Cortês (IA/FCUL; Cosmology)
+- Paulo Garcia (CENTRA/FEUP; Instrumentation)
 - Rosa Doran (NUCLIO, Universidade de Coimbra; Science Education)
-- Sandra Raimundo (DARK/Niels Bohr Institute; Active Galactic Nuclei)
+- Sandra Raimundo (DARK/Niels Bohr Institute/Southampton; Active Galactic Nuclei)
 - Zita Martins (CQE/IST; Astrobiology)
-<!--
-Gabriela Gilli (Sistema Solar, IA/FCUL)
-João Rocha (Ast. Computacional, Evora)
-Paulo Garcia (Instrumentation, CENTRA/FEUP)
--->
 
 ## (Virtual) Organizing Committee 
-- Alberto Krone-Martins
-- Ana Paulino-Afonso
-- Bruno Ribeiro
-- David Sobral
+- Alberto Krone-Martins (U. Irvine)
+- Ana Paulino-Afonso (co-Chair; CENTRA/IST)
+- Bruno Ribeiro (DTx-CoLab)
+- David Sobral (co-Chair; U. Lancaster, SPA)
 
 ## Ethics and Anti-Harassment statement
 ENAA meetings are meant to be a privileged occasion for free and frank interchange of scientific ideas, as well as for the nurturing and creation of professional and social contacts. 

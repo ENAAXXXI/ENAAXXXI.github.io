@@ -6,7 +6,7 @@ Below is a list of the most important dates for this conference.
 
 - *March 1st* - Dates announced and start of community consultation
 - *March 15th* - end of community consultation
-- **March 31st - 1st announcement and abstract submission opens**{: style="color: steelblue; opacity: 0.80;" }
+- **March 31st - 1st announcement and abstract submission opens**{: style="color: steelblue; opacity: 1.00;" }
 - **July 9th** - Abstract submission for talks and posters to be fully considered closes
 - **July 30th** - Results announced and first program will be on-line
 - **August 31st** - deadline for late poster submission and registration

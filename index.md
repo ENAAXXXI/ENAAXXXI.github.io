@@ -3,13 +3,13 @@
 The 31st edition of the National Astronomy and Astrophysics Meeting (ENAA XXXI) will be held as a virtual conference on 8th-10th September 2021. This meeting
 is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA).
 
-[**Abstract submission from March 31st to July 9th**{: style="color: steelblue; opacity: 1.00; text-align: center; font-size: 31px; text-decoration: underline"}](./abstract_gform.md)
+[**Abstract submission from March 31st to July 9th**{: style="color: steelblue; opacity: 1.00; font-size: 31px; text-decoration: underline"}](./abstract_gform.md)
 
 ## Format
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
 
 ## Fee
-The conference will have a registration fee of 10€ (with waivers for some participants). For more information see the [registration](./registration_gform.md) page.
+The conference will have a registration fee of 10€ (with waivers for some participants). For more information see the [**registration**{: style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"}](./registration_gform.md) page.
 
 ## Awards 
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.

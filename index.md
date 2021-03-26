@@ -9,7 +9,14 @@ is organized by a team of astronomers affiliated with Sociedade Portuguesa de As
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
 
 ## Fee
-The conference will have a registration fee of 10€ (with waivers for some participants). For more information see the [**registration**{: style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"}](./registration_gform.md) page.
+The conference will have a registration fee of 10€ (with waivers for some participants), which should be payed by wire transfer to the following account:
+
+**IBAN**: PT50 0035 0194 00003196330 71 <br>
+**BIC/SWIFT**: CGDIPTPL
+
+For more information see the [**registration**{: style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"}](./registration_gform.md) page. 
+
+For any questions/comments/doubts please, do not hesitate to contact the VOC: [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com).
 
 ## Awards 
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.

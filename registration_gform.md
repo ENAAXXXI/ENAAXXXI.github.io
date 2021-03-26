@@ -3,6 +3,15 @@
 ## Information on payment
 
 The registration fee for this conference is 10€. 
+
+Payments should be done by wire transfer to the following account:
+
+**IBAN**: PT50 0035 0194 00003196330 71 <br>
+**BIC/SWIFT**: CGDIPTPL
+
+Confirmation of a successful registration will be sent by e-mail.
+
+For any questions/comments/doubts please, do not hesitate to contact the VOC: [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com).
 ## Registration form
 
 To register for the virtual ENAA XXXI conference please use the form below

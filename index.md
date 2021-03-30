@@ -31,13 +31,13 @@ The fees will be used to create awards to be given to the best posters and talks
 - Solar & Stellar Physics
 
 ## Scientific Organizing Committee
-- Ana Paulino-Afonso (co-Chair; CENTRA/IST; Observational Cosmology)
+- Ana Paulino-Afonso (co-Chair; CENTRA/IST; Galaxy Evolution)
 - André Moitinho (CENTRA/FCUL, SPA; Galaxy, Data Mining)
 - David Sobral (co-Chair; U. Lancaster, SPA; Galaxy Evolution)
 - Elisabete da Cunha (ICRAR/University of Western Australia; Galaxy Evolution)
 - Koraljka Muzic  (CENTRA/FCUL; Star-formation)
 - Gabriela Gilli (IA/FCUL; Solar System)
-- Jorge Martins (IA/CAUP; Exoplanets)
+- Jorge Martins (IA/CAUP; Exoplanets, Stars)
 - Lluis Galbany (U. Granada; Supernova/Transients)
 - Marina Cortês (IA/FCUL; Cosmology)
 - Paulo Garcia (CENTRA/FEUP; Instrumentation)

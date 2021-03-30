@@ -14,7 +14,7 @@ The conference will have a registration fee of 10€ (with waivers for some part
 **IBAN**: PT50 0035 0194 00003196330 71 <br>
 **BIC/SWIFT**: CGDIPTPL
 
-For more information see the [**registration**{: style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"}](./registration_gform.md) page. 
+A proof of payment should be sent to to [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com). Please include your name and institute in the e-mail if you are sending the proof with a different e-mail that what was used for the registration. For more information see the [**registration**{: style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"}](./registration_gform.md) page. 
 
 For any questions/comments/doubts please, do not hesitate to contact the VOC: [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com).
 

@@ -41,7 +41,7 @@ The fees will be used to create awards to be given to the best posters and talks
 - Lluis Galbany (U. Granada; Supernova/Transients)
 - Marina Cortês (IA/FCUL; Cosmology)
 - Paulo Garcia (CENTRA/FEUP; Instrumentation)
-- Rosa Doran (NUCLIO, Universidade de Coimbra; Science Education)
+- Rosa Doran (NUCLIO, CITEUC/UC; Science Education)
 - Sandra Raimundo (DARK/Niels Bohr Institute/Southampton; Active Galactic Nuclei)
 - Zita Martins (CQE/IST; Astrobiology)
 

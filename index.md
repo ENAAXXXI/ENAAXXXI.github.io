@@ -2,7 +2,6 @@
 
 The 31st edition of the National Astronomy and Astrophysics Meeting (ENAA XXXI) will be held as a virtual conference on 8th-10th September 2021. This meeting
 is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA).
-## ENAA statistics
 
 [**Abstract submission is now over, look at some statistics here**{: style="color: forestgreen; opacity: 1.00; font-size: 24px"}](./abstract_stats.md).
 

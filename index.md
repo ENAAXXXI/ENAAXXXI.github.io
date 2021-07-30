@@ -47,6 +47,7 @@ The fees will be used to create awards to be given to the best posters and talks
 - Planetary Science & Extrasolar planets
 - Science Communication & Education, and History of Astronomy
 - Solar & Stellar Physics
+<br>
 
 ## Scientific Organizing Committee
 - Ana Paulino-Afonso (co-Chair; CENTRA/IST; Galaxy Evolution)
@@ -62,12 +63,14 @@ The fees will be used to create awards to be given to the best posters and talks
 - Rosa Doran (NUCLIO, CITEUC/UC; Science Education)
 - Sandra Raimundo (DARK/Niels Bohr Institute/Southampton; Active Galactic Nuclei)
 - Zita Martins (CQE/IST; Astrobiology)
+<br>
 
 ## (Virtual) Organizing Committee 
 - Alberto Krone-Martins (U. Irvine)
 - Ana Paulino-Afonso (co-Chair; CENTRA/IST)
 - Bruno Ribeiro (DTx-CoLab)
 - David Sobral (co-Chair; U. Lancaster, SPA)
+<br>
 
 ## Ethics and Anti-Harassment statement
 <div style="text-align: justify">

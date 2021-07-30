@@ -22,19 +22,22 @@ Online meeting (Zoom) with virtual reality poster sessions and social events. De
 ## Fee
 <div style="text-align: justify">
 The conference will have a registration fee of 10€ (with waivers for some participants), which should be payed by wire transfer to the following account:
+<br>
+<br>
+<b>IBAN</b>: PT50 0035 0194 00003196330 71 <br>
+<b>BIC/SWIFT</b>: CGDIPTPL
+<br>
+<br>
+A proof of payment should be sent to to <a href="mailto:enaaxxxi@gmail.com">enaaxxxi@gmail.com</a>. Please include your name and institute in the e-mail if you are sending the proof with a different e-mail that what was used for the registration. For more information see the <a href=registration_gform style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline">registration</a> page. 
 
-**IBAN**: PT50 0035 0194 00003196330 71 <br>
-**BIC/SWIFT**: CGDIPTPL
-
-A proof of payment should be sent to to <a href=mailto:enaaxxxi@gmail.com>enaaxxxi@gmail.com</a>. Please include your name and institute in the e-mail if you are sending the proof with a different e-mail that what was used for the registration. For more information see the <a href=registration_gform style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"> registration </a>page. 
-
-For any questions/comments/doubts please, do not hesitate to contact the VOC: <a href=mailto:enaaxxxi@gmail.com>enaaxxxi@gmail.com</a>.
-</div>
+For any questions/comments/doubts please, do not hesitate to contact the VOC: <a href="mailto:enaaxxxi@gmail.com">enaaxxxi@gmail.com</a>.
+</div><br>
 
 ## Awards 
 <div style="text-align: justify">
 The fees will be used to create awards to be given to the best posters and talks submitted to this conference.
-</div>
+</div><br>
+
 
 ## Scientific topics
 - Astrobiology & Astrochemistry

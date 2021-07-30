@@ -5,9 +5,9 @@ is organized by a team of astronomers affiliated with Sociedade Portuguesa de As
 
 **Abstract submission is now over, look at some statistics**{: style="font-size: 24px"} [**here**{: style="color: steelblue; opacity: 1.00; font-size: 24px"}](./abstract_stats.md).
 
-<span style="text-align: center">
-[**Late Poster submission is open until August 31st**{: style="color: steelblue; opacity: 1.00; font-size: 21px; text-decoration: underline"}](./abstract_gform.md)
-</span>
+<div style="text-align: center">
+<a href="index" style="color: steelblue; opacity: 1.00; font-size: 21px; text-decoration: underline"> Late Poster submission is open until August 31st </a>
+</div>
 
 ## Format
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.

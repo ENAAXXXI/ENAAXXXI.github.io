@@ -1,6 +1,6 @@
 # Abstract Statistics
 
-You can find below some statistics about the abstract submission.
+You can find below some statistics about the abstract submission for oral contributions.
 
 ## Abstracts per topic
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="//enaaxxxi.github.io/charts/abstract_topic" height="500" width="100%"></iframe>

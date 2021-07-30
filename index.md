@@ -17,7 +17,7 @@ is organized by a team of astronomers affiliated with Sociedade Portuguesa de As
 ## Format
 <div style="text-align: justify">
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
-</div>
+</div><br>
 
 ## Fee
 <div style="text-align: justify">

@@ -23,7 +23,7 @@
 | 19 | Daniela Cortes Espadinha | Instituto de Astrofísica e Ciências do Espaço |
 | 20 | Davi Dias Barbosa | Universidade de Lisboa |
 | 21 | David Sobral | Lancaster University |
-| 22 | Diogo Quirino | Institute of Astrophysics and Space Sciences | Faculty of Sciences, University of Lisbon |
+| 22 | Diogo Quirino | Institute of Astrophysics and Space Sciences; Faculty of Sciences, University of Lisbon |
 | 23 | Duarte Miguel de Almeida | FCUL |
 | 24 | Francisco Brasil | Instituto de Astrofísica e Ciências do Espaço (Lisboa) |
 | 25 | Francisco S. N. Lobo | Instituto de Astrofísica e Ciências do Espaço (IA) |

@@ -1,15 +1,21 @@
 # XXXI Encontro Nacional de Astronomia e Astrofísica
 
+<div style="text-align: justify">
 The 31st edition of the National Astronomy and Astrophysics Meeting (ENAA XXXI) will be held as a virtual conference on 8th-10th September 2021. This meeting
 is organized by a team of astronomers affiliated with Sociedade Portuguesa de Astronomia (SPA).
-
+</div>
+<br>
+<br>
 **Abstract submission is now over, look at some statistics**{: style="font-size: 24px"} [**here**{: style="color: steelblue; opacity: 1.00; font-size: 24px"}](./abstract_stats.md).
 
 <div style="text-align: center">
-<a href="index" style="color: steelblue; opacity: 1.00; font-size: 21px; text-decoration: underline"> Late Poster submission is open until August 31st </a>
+<a href="abstract_gform" style="color: steelblue; opacity: 1.00; font-size: 21px; text-decoration: underline"> Late Poster submission is open until August 31st </a>
 </div>
+<br>
+<br>
 
 ## Format
+<div style="text-align: justify">
 Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
 
 ## Fee
@@ -18,7 +24,7 @@ The conference will have a registration fee of 10€ (with waivers for some part
 **IBAN**: PT50 0035 0194 00003196330 71 <br>
 **BIC/SWIFT**: CGDIPTPL
 
-A proof of payment should be sent to to [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com). Please include your name and institute in the e-mail if you are sending the proof with a different e-mail that what was used for the registration. For more information see the [**registration**{: style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"}](./registration_gform.md) page. 
+A proof of payment should be sent to to [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com). Please include your name and institute in the e-mail if you are sending the proof with a different e-mail that what was used for the registration. For more information see the <a href=registration_gform style="color: steelblue; opacity: 1.00; font-size: larger; text-decoration: underline"> registration </a>page. 
 
 For any questions/comments/doubts please, do not hesitate to contact the VOC: [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com).
 
@@ -59,6 +65,6 @@ The fees will be used to create awards to be given to the best posters and talks
 ENAA meetings are meant to be a privileged occasion for free and frank interchange of scientific ideas, as well as for the nurturing and creation of professional and social contacts. 
 
 We aim to provide a harassment-free conference experience for everyone, regardless of sex, gender identity, sexual orientation, marital or parental status, age, disability, race, religion or physical appearance. We will not tolerate harassment of conference participants in any form. All communication should be appropriate for a professional audience, including people of many different backgrounds. Sexual language and imagery are not appropriate for any conference venue, including talks. Be kind to others. Do not insult or put down other attendees. Behave professionally. Remember that harassment and sexist, racist, ableist or other exclusionary jokes are not appropriate for a work environment. Attendees violating these rules will be asked to leave the conference, without a refund, at the sole discretion of the Organizing Committee.
-
+</div>
 ___
  <p><small>Logo &mdash; Credit: Space Scoop; Ana Paulino-Afonso</small></p>

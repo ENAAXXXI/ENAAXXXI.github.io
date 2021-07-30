@@ -6,7 +6,11 @@ is organized by a team of astronomers affiliated with Sociedade Portuguesa de As
 </div>
 <br>
 <br>
-**Abstract submission is now over, look at some statistics**{: style="font-size: 24px"} [**here**{: style="color: steelblue; opacity: 1.00; font-size: 24px"}](./abstract_stats.md).
+<div style="text-align: center; font-size: 24px; font-weight: bold">
+Abstract submission is now over, look at some statistics <a href=abstract_stats  style="color: steelblue"> here</a>. <br> The preliminary program can be found <a href=program  style="color: steelblue"> here</a>.
+</div>
+<br>
+<br>
 
 <div style="text-align: center">
 <a href="abstract_gform" style="color: steelblue; opacity: 1.00; font-size: 21px; text-decoration: underline"> Late Poster submission is open until August 31st </a>

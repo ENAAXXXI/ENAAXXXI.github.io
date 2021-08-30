@@ -20,7 +20,7 @@ Abstract submission is now over, look at some statistics <a href=abstract_stats 
 
 ## Format
 <div style="text-align: justify">
-Online meeting (Zoom) with virtual reality poster sessions and social events. Details will be provided closer to the meeting.
+Online meeting (Zoom) with Slack poster sessions. More details will be provided closer to the meeting.
 </div><br>
 
 ## Fee

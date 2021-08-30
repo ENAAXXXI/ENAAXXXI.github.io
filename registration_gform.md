@@ -14,6 +14,6 @@ A proof of payment should be sent to to [enaaxxxi@gmail.com](mailto:enaaxxxi@gma
 For any questions/comments/doubts please, do not hesitate to contact the VOC: [enaaxxxi@gmail.com](mailto:enaaxxxi@gmail.com).
 ## Registration form
 
-To register for the virtual ENAA XXXI conference please use the form below
+To register for the virtual ENAA XXXI conference please use the form below.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-cy_SoJ8kA2pAlqOm2WV3P7CbXE-bONxLmA2FlzOWZJ8SMw/viewform?embedded=true" width="90%" height="1910" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

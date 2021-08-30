@@ -1,4 +1,4 @@
-# List of participants 
+# List of participants (71)
 
 |    | Name        | Institute |
 | -- | ----------- | ----------- |
@@ -25,7 +25,7 @@
 | 21 | Daniela Cortes Espadinha | Instituto de Astrofísica e Ciências do Espaço |
 | 22 | Davi Dias Barbosa | Universidade de Lisboa |
 | 23 | David Sobral | Lancaster University |
-| 24 | Diogo Quirino | Institute of Astrophysics and Space Sciences | Faculty of Sciences, University of Lisbon |
+| 24 | Diogo Quirino | Institute of Astrophysics and Space Sciences; Faculty of Sciences, University of Lisbon |
 | 25 | Duarte Miguel de Almeida | FCUL |
 | 26 | Filipe Cruz | Instituto Superior Técnico |
 | 27 | Francisco Brasil | Instituto de Astrofísica e Ciências do Espaço (Lisboa) |

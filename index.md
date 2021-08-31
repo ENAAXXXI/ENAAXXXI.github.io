@@ -72,7 +72,7 @@ The fees will be used to create awards to be given to the best posters and talks
 <br>
 
 ## (Virtual) Organizing Committee 
-- Alberto Krone-Martins (U. Irvine)
+- Alberto Krone-Martins (U. Irvine; CENTRA/SIM)
 - Ana Paulino-Afonso (co-Chair; CENTRA/IST)
 - Bruno Ribeiro (DTx-CoLab)
 - David Sobral (co-Chair; U. Lancaster, SPA)

@@ -1,5 +1,5 @@
 # Important Dates
-<span style="color:gray">Last updated, August 30th</span>
+<span style="color:gray">Last updated, September 1st</span>
 
 Below is a list of the most important dates for this conference.
 

@@ -1,4 +1,6 @@
 # List of participants (96)
+<span style="color:gray">Last updated, September 1st</span>
+
 
 |    | Name        | Institute |
 | -- | ----------- | ----------- |

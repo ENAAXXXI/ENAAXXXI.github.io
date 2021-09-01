@@ -13,7 +13,7 @@ Abstract submission is now over, look at some statistics <a href=abstract_stats 
 <br>
 
 <div style="text-align: center; font-size: 24px; font-weight: bold; color: crimson">
-All posters are accepted and are eligible for the prize
+All posters are accepted and are eligible for the best poster prizes
 </div>
 <br>
 <br>

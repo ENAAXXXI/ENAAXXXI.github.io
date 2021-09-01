@@ -12,8 +12,8 @@ Abstract submission is now over, look at some statistics <a href=abstract_stats 
 <br>
 <br>
 
-<div style="text-align: center">
-<a href="abstract_gform" style="color: steelblue; opacity: 1.00; font-size: 21px; text-decoration: underline"> Late Poster submission is open until August 31st </a>
+<div style="text-align: center; font-size: 24px; font-weight: bold; color: crimson">
+All posters are accepted and are eligible for the prize
 </div>
 <br>
 <br>

@@ -1,4 +1,4 @@
-# List of participants (71)
+# List of participants (96)
 
 |    | Name        | Institute |
 | -- | ----------- | ----------- |

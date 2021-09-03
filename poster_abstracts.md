@@ -72,7 +72,7 @@ Acknowledgements
 **Author**: J. Rino-Silvestre
 
 **Abstract**: Dust grains are key ingredients in understanding the interstellar medium (ISM) and the largest effects of dust on astronomical observations, the extinction of light in the line of sight and the wavelength dependent reddening it causes, both affecting distance measurements for cosmology when using extragalactic sources such as supernovae. Size, shape and distribution of the dust grains may also polarize light as it traverses the ISM. A comprehensive galaxy polarization study is thus justified.
-In this talk I will describe the reduction steps undertaken and how simply switching the Stoke parameter calculation method yields more reliable and less biased polarimetry. Finally, preliminary multi-band polarization maps of an ensemble of galaxies observed with VLT's FORS2 are shown.
+In this poster I will describe the reduction steps undertaken and how simply switching the Stoke parameter calculation method yields more reliable and less biased polarimetry. Finally, preliminary multi-band polarization maps of an ensemble of galaxies observed with VLT's FORS2 are shown.
 
 
 

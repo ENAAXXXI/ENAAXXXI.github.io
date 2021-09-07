@@ -1,4 +1,4 @@
-# List of participants (100)
+# List of participants (102)
 <span style="color:gray">Last updated, September 5th</span>
 
 
@@ -76,34 +76,33 @@
 | 70 | Miguel Tavares Clara | Instituto de Astrofísica e Ciências do Espaço |
 | 71 | Nuno Peixinho | Instituto de Astrofísica e Ciências do Espaço, Universidade de Coimbra |
 | 72 | Nuno Rosário | IA / CAUP |
-| 73 | Paula Maria Cerqueira de Mesquita Carneiro  | Agrupamento Gaia Nascente  |
-| 74 | Paulo Garcia | CENTRA/FEUP |
-| 75 | Pedro Augusto | FMUP |
-| 76 | Pedro Cunha | FCUP-IA Porto |
-| 77 | Pedro Guilherme Garcia | FCUL |
-| 78 | Pedro Machado | Instituto de Astrofísica e Ciências do Espaço |
-| 79 | Pedro Medeiros | Universidade de Aveiro |
-| 80 | Priscila Doran | NUCLIO |
-| 81 | Raul Cerveira Lima | Escola Superior de Saúde do Politécnico do Porto/Instituto de Astrofísica e Ciências do Espaço |
-| 82 | Raul Sarmento | LIP |
-| 83 | Rodrigo Carvajal | Institute of Astrophysics - University of Lisbon |
-| 84 | Rosa Doran | NUCLIO |
-| 85 | Rui Curado da Silva | LIP |
-| 86 | Rui Torres | GoLP/IPFN - Instituto Superior Técnico |
-| 87 | Rute Rodrigues | Rio Maior High School Portugal |
-| 88 | Sandra Raimundo | Univ. of Copenhagen / UCLA / Univ. of Southampton |
-| 89 | Santiago Gonzalez-Gaitan | CENTRA, Instituto Superior Técnico, Universidade de Lisboa |
-| 90 | Sara Anjos | NUCLIO/ University of Minho/ University of Leiden |
-| 91 | Sara Melissa Azevedo Freitas | Universidade do Porto |
-| 92 | Sara Nóbrega | FCUL/IA |
-| 93 | Sofia Trigo  | FCUL |
-| 94 | Stergios Amarantidis |  Institute of Astrophysics and Space Sciences |
-| 95 | Sílvia Vicente | IA - Institute of Astrophysics and Space Sciences |
-| 96 | Thibault Boulet | Centro de Astrofísica da Universidade do Porto |
-| 97 | Tiago Costa | Max-Planck-Institute for Astrophysics |
-| 98 | Tiago Gonçalves | Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciências da Universidade de Lisboa  |
-| 99 | Tomás Silva | Instituto de Astrofísica e Ciências do Espaço (IA) |
-| 100 | Vardan Adibekyan | Instituto de Astrofísica e Ciências do Espaço (IA) |
-| 101 | Vitor Bonifácio | CIDTFF, Physics Department, University of Aveiro |
-| 102 | Víctor Almendros-Abad | CENTRA FCUL |
-| 103 | Álvaro Manuel Folhas Ferreira | Agrupamento de escola de Águeda Sul / NUCLIO / CITEUC |
+| 73 | Paulo Garcia | CENTRA/FEUP |
+| 74 | Pedro Augusto | FMUP |
+| 75 | Pedro Cunha | FCUP-IA Porto |
+| 76 | Pedro Guilherme Garcia | FCUL |
+| 77 | Pedro Machado | Instituto de Astrofísica e Ciências do Espaço |
+| 78 | Pedro Medeiros | Universidade de Aveiro |
+| 79 | Priscila Doran | NUCLIO |
+| 80 | Raul Cerveira Lima | Escola Superior de Saúde do Politécnico do Porto/Instituto de Astrofísica e Ciências do Espaço |
+| 81 | Raul Sarmento | LIP |
+| 82 | Rodrigo Carvajal | Institute of Astrophysics - University of Lisbon |
+| 83 | Rosa Doran | NUCLIO |
+| 84 | Rui Curado da Silva | LIP |
+| 85 | Rui Torres | GoLP/IPFN - Instituto Superior Técnico |
+| 86 | Rute Rodrigues | Rio Maior High School Portugal |
+| 87 | Sandra Raimundo | Univ. of Copenhagen / UCLA / Univ. of Southampton |
+| 88 | Santiago Gonzalez-Gaitan | CENTRA, Instituto Superior Técnico, Universidade de Lisboa |
+| 89 | Sara Anjos | NUCLIO/ University of Minho/ University of Leiden |
+| 90 | Sara Melissa Azevedo Freitas | Universidade do Porto |
+| 91 | Sara Nóbrega | FCUL/IA |
+| 92 | Sofia Trigo  | FCUL |
+| 93 | Stergios Amarantidis |  Institute of Astrophysics and Space Sciences |
+| 94 | Sílvia Vicente | IA - Institute of Astrophysics and Space Sciences |
+| 95 | Thibault Boulet | Centro de Astrofísica da Universidade do Porto |
+| 96 | Tiago Costa | Max-Planck-Institute for Astrophysics |
+| 97 | Tiago Gonçalves | Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciências da Universidade de Lisboa  |
+| 98 | Tomás Silva | Instituto de Astrofísica e Ciências do Espaço (IA) |
+| 99 | Vardan Adibekyan | Instituto de Astrofísica e Ciências do Espaço (IA) |
+| 100 | Vitor Bonifácio | CIDTFF, Physics Department, University of Aveiro |
+| 101 | Víctor Almendros-Abad | CENTRA FCUL |
+| 102 | Álvaro Manuel Folhas Ferreira | Agrupamento de escola de Águeda Sul / NUCLIO / CITEUC |

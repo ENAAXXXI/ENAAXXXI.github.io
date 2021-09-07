@@ -66,7 +66,7 @@ We show that for a simple test case of a spherical dust shell, our approach is s
 
 ## ID 21
 
-**Title**: nan
+**Title**: The impact of AGN on Galaxy Evolution
 
 **Author**: T. Costa
 

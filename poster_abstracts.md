@@ -160,6 +160,16 @@ The joint use of archival data and occultations remains more challenging as the 
 
 
 
+## ID 36
+
+**Title**: SPACE RIDER CdTe MONITOR FOR ASTROPHYSICS AND AVIATION SAFETY
+
+**Author**: J. Mingacho
+
+**Abstract**: The i-Astro LIP group is setting up a Space Rider based experiment opportunity, by proposing further studies of the orbital radiation environment  effects on the detection material and operational performance of a CdTe/CZT  pixelized gamma-ray detector as well as its scientific potential as Terrestrial Gamma-ray Flashes’ (TGFs) monitor. This experiment provides new scientific and technological horizons, addressing the following topics: i) Orbital radiation effects on CdTe/CZT detectors for high-energy astrophysics telescopes’ detection plane. Scientific observations will also be performed to the Crab Nebula and GRBs emissions, in particular polarimetric measurements will be performed. TGFs emissions science will be also addressed, in particular the possibility to measure the linear polarization of this emissions may contribute to answer open questions concerning the physical processes that generate these emissions. Real time monitorization of TGFs will provide the potential of CdTe/CZT pixelized detector as a TGF monitor, with the ultimate goal of developing a commercial product for aviation safety. A CdTe/CZT TGF monitor solution on board aircrafts to alert the occurrence and to characterize the magnitude of the TGFs' emissions would provide a valuable contribute for the health and safety of aircraft crews and passengers.
+
+
+
 ## ID 8
 
 **Title**: A reanalysis of ISO-SWS Jupiter observations: first results

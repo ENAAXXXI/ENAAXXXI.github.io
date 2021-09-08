@@ -28,6 +28,16 @@ Here we investigate the tessellation patterns of galaxies and galaxy clusters in
 
 
 
+## ID 80
+
+**Title**: Near infrared H2 outflows through IFU observations: peering into the massive star forming region IRAS 18264-1152
+
+**Author**: A. R. C. Silva
+
+**Abstract**: Since massive protostars are deeply embedded in their parental clouds, it is highly challenging to directly observe their immediate environment in the near-infrared (NIR). However, it is known that accretion and ejection processes are intrinsically related, thus observing the outflows in the NIR can provide crucial information about the processes governing massive star formation very close to the central engine. We analyse the morphology and chemical composition of the NIR jets of the IRAS 18264-1152 (G19.88-0.53) massive star forming region via K-band (1.9um-2.5um) observations obtained with the integral field units VLT/SINFONI and VLT/KMOS. We compute K-band magnitudes for seven point sources identified. One point source shows a rising continuum in the K-band, which may indicate its youth and potential jet driving source. The spectro-imaging analysis focuses on the H2 jets, for which we derived visual extinction, temperature, column density, area and mass. Other atomic species, such as [FeII] and BrG, are also detected, although weaker than H2. The intensity, velocity, and excitation maps based on H2 emission strongly support the existence of a protostellar cluster in this region, with at least two different large scale outflows. Furthermore, the NIR H2 morphology agrees extremely well with that found in the radio CO 2-1 outflows observed with SMA at a comparable sub-arcsecond resolution.
+
+
+
 ## ID 33
 
 **Title**: Blinking Lights in Taurus: Longer Term Variability of Young Stars

@@ -105,6 +105,23 @@ Results: The SFR estimated with FADO is consistently higher than the SFR estimat
 
 
 
+## ID 31
+
+**Title**: Y-NBS: Probing the epoch of reionisation with the brightest distant LAEs
+
+**Author**: H. Wade
+
+**Abstract**: The very early Universe remains elusive and the physics of the first galaxies and how they might have contributed towards cosmic reionisation remains one of the most exciting areas of Observational Astrophysics. The Epoch of Reionisation (EoR) marks the last major phase transition of hydrogen, and the Lyman-alpha (Lya) emission line is a powerful tool with which to probe it, as it is sensitive to the fraction of neutral hydrogen in the intergalactic medium. 
+
+Recently, the Lya luminosity function (LF) has become well constrained up to z=6.6, but now it is time to push this further to z=7.7, deeper in the EoR, where there has been a lack of ultra-wide narrowband surveys. There are various claims stating that the faint- and bright-ends of the Lya LF evolve differently, yet surveys focussing on the faint-end have failed to constrain the z=7.7 Lya LF. 
+
+Therefore, I will present the first results from Y-NBS, a large narrowband survey (1.06 um) conducted with HAWK-I on the VLT to find bright z~7.7 Lyman-alpha emitters in the COSMOS and GOODS-S fields. We combine an area of ~1 deg^2 (~600,000 Mpc^3) down to a Lya luminosity limit of 10^43.5 erg/s with a volume of ~9000 Mpc^3 down to 10^42.3 erg/s for the first time at z=7.7. 
+
+This allows us to combine ultra-faint line emitters with bright line emitters to obtain the best constraints so far. I will present an analysis of the fully reduced HAWK-I data with stricter constraints on the z=7.7 Lya LF and also discuss potential plans for follow-up observations with ALMA and JWST and the need for further wide and deep narrowband surveys.
+
+
+
+
 ## ID 88
 
 **Title**: CMB from standard and current-carrying cosmic strings

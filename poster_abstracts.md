@@ -223,6 +223,16 @@ We developed a modular tool called "Follow-Up Lightcurves Multitool Assisting Ra
 
 
 
+## ID 83
+
+**Title**: Cosmological constraints on f(Q)-gravity
+
+**Author**: L. Atayde
+
+**Abstract**: Despite the Lambda CDM overall success, there are still some theoretical and observational problems. Looking beyond  Lambda CDM is thus a priority. Here I show an alternative scenario of the non-metricity f(Q)-gravity. The poster presents the phenomenology and observational constraints,  using Cosmic Microwave Background (CMB) radiation, baryonic acoustic oscillations (BAO), redshift-space distortions (RSD), supernovae type Ia (SNIa), galaxy clustering (GC) and weak gravitational lensing (WL) measurements, on the non-metricity f(Q)-gravity which reproduces an exact Lambda CDM background expansion history while modifying the evolution of linear perturbations. 
+
+
+
 ## ID 68
 
 **Title**: The cosmological constant in voids

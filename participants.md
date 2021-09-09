@@ -1,5 +1,5 @@
-# List of participants (107)
-<span style="color:gray">Last updated, September 8th</span>
+# List of participants (108)
+<span style="color:gray">Last updated, September 9th</span>
 
 
 |    | Name        | Institute |
@@ -36,7 +36,7 @@
 | 30 | David Sobral | Lancaster University |
 | 31 | Diana Sousa Correia | FMUL |
 | 32 | Diogo Castelão  | IA |
-| 33 | Diogo Quirino | Institute of Astrophysics and Space Sciences ; Faculty of Sciences, University of Lisbon |
+| 33 | Diogo Quirino | Institute of Astrophysics and Space Sciences | Faculty of Sciences, University of Lisbon |
 | 34 | Duarte Miguel de Almeida | FCUL |
 | 35 | Elisabete da Cunha | ICRAR/University of Western Australia, Australia |
 | 36 | Filipe Cruz | Instituto Superior Técnico |
@@ -45,69 +45,70 @@
 | 39 | Fábio Cruz | GoLP/IPFN, Instituto Superior Técnico |
 | 40 | Gabriella Gilli | Instituto de Astrofisica de Andalucia |
 | 41 | Heather Wade | Lancaster University |
-| 42 | Henrique Miranda | Faculdade Ciências da Universidade de Lisboa/Instituto de Astrofísica e Ciências do Espaço |
-| 43 | Hilberto Silva | Instituto de Astrofísica e Ciências do Espaço |
-| 44 | Ilídio André Costa | Agrupamento de Escolas de Santa Bárbara / Planetário do Porto - Centro Ciência Viva / Instituto de Astrofísica e Ciências do Espaço |
-| 45 | Israel Matute | Institute of Astrophysics and Space Sciences /FCUL |
-| 46 | Ivan Rybak | Instituto de Astrofísica e Ciências do Espaço (IA), Porto |
-| 47 | Jake Noel-Storr | University of Groningen |
-| 48 | Jarle Brinchmann | IA |
-| 49 | Jean Michel Silva de Miranda Gomes | Instituto de Astrofísica e Ciências do Espaço |
-| 50 | Joana Mingacho | LIP |
-| 51 | Joao Jose Feio Calhau | Instituto de Astrofisica de Canarias (IAC) |
-| 52 | José Afonso | Instituto de Astrofísica e Ciências do Espaço - FCUL |
-| 53 | José Eduardo Oliveira Silva | Instituto de Astrofísica e Ciências do Espaço - U.Lisboa |
-| 54 | José Ferreira | Faculdade de Ciências da Universidade de Lisboa |
-| 55 | José Laurindo de Góis Nóbrega Sobrinho | InsInstituto de Astrofísica e Ciências do Espaço / Grupo de Astronomia da UMa |
-| 56 | José Luís Fernandes Ribeiro | Instituto de Astrofísica e Ciências do Espaço |
-| 57 | José Pedro  Mimoso  | IA & Dep. FISICA, FCUL |
-| 58 | João Dias | Institute of Astrophysics and Space Sciences, Faculty of Sciences, U.Lisbon |
-| 59 | João Duarte | CENTRA/IST |
-| 60 | João Francisco Ferreira | Aristotle University of Thessaloniki |
-| 61 | João Ribeiro  | None |
-| 62 | João Rino-Silvestre | Centra, Instituto Superior Técnico |
-| 63 | Karolina Kubiak | CENTRA, U Lisboa |
-| 64 | Koraljka Muzic | CENTRA, Universidade de Lisboa |
-| 65 | Lara Piscarreta | FCUL |
-| 66 | Manuel César Gaspar Fecha | Escola Secundária de São Pedro do Sul |
-| 67 | Mariana Ferreira | FCUL |
-| 68 | Mariana P. Júlio | IA - CAUP |
-| 69 | Marina Cortês | Universidade Lisboa |
-| 70 | Marta André Botas | Faculdade de Ciências da Universidade de Lisboa |
-| 71 | Md Rasel Uddin   | Jashore University of Science and Technology, Bangladesh        |
-| 72 | Mercedes Filho | Faculdade de Engenharia da Universidade do Porto |
-| 73 | Miguel Conceição | FCUL/IA |
-| 74 | Miguel Tavares Clara | Instituto de Astrofísica e Ciências do Espaço |
-| 75 | Nuno Peixinho | Instituto de Astrofísica e Ciências do Espaço, Universidade de Coimbra |
-| 76 | Nuno Rosário | IA / CAUP |
-| 77 | Paulo Garcia | CENTRA/FEUP |
-| 78 | Pedro Augusto | FMUP |
-| 79 | Pedro Cunha | FCUP-IA Porto |
-| 80 | Pedro Guilherme Garcia | FCUL |
-| 81 | Pedro Machado | Instituto de Astrofísica e Ciências do Espaço |
-| 82 | Pedro Medeiros | Universidade de Aveiro |
-| 83 | Priscila Doran | NUCLIO |
-| 84 | Raul Cerveira Lima | Escola Superior de Saúde do Politécnico do Porto/Instituto de Astrofísica e Ciências do Espaço |
-| 85 | Raul Sarmento | LIP |
-| 86 | Rodrigo Carvajal | Institute of Astrophysics - University of Lisbon |
-| 87 | Rosa Doran | NUCLIO |
-| 88 | Rui Curado da Silva | LIP |
-| 89 | Rui Torres | GoLP/IPFN - Instituto Superior Técnico |
-| 90 | Rute Rodrigues | Rio Maior High School Portugal |
-| 91 | Sandra Raimundo | Univ. of Copenhagen / UCLA / Univ. of Southampton |
-| 92 | Santiago Gonzalez-Gaitan | CENTRA, Instituto Superior Técnico, Universidade de Lisboa |
-| 93 | Sara Anjos | NUCLIO/ University of Minho/ University of Leiden |
-| 94 | Sara Melissa Azevedo Freitas | Universidade do Porto |
-| 95 | Sara Nóbrega | FCUL/IA |
-| 96 | Sofia Trigo  | FCUL |
-| 97 | Stergios Amarantidis |  Institute of Astrophysics and Space Sciences |
-| 98 | Susana Carneiro | Faculdade de Ciências da Universidade de Lisboa |
-| 99 | Sílvia Vicente | IA - Institute of Astrophysics and Space Sciences |
-| 100 | Thibault Boulet | Centro de Astrofísica da Universidade do Porto |
-| 101 | Tiago Costa | Max-Planck-Institute for Astrophysics |
-| 102 | Tiago Gonçalves | Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciências da Universidade de Lisboa  |
-| 103 | Tomás Silva | Instituto de Astrofísica e Ciências do Espaço (IA) |
-| 104 | Vardan Adibekyan | Instituto de Astrofísica e Ciências do Espaço (IA) |
-| 105 | Vitor Bonifácio | CIDTFF, Physics Department, University of Aveiro |
-| 106 | Víctor Almendros-Abad | CENTRA FCUL |
-| 107 | Álvaro Manuel Folhas Ferreira | Agrupamento de escola de Águeda Sul / NUCLIO / CITEUC |
+| 42 | Henrique Eira | Faculty of Sciences of the University of Lisbon |
+| 43 | Henrique Miranda | Faculdade Ciências da Universidade de Lisboa/Instituto de Astrofísica e Ciências do Espaço |
+| 44 | Hilberto Silva | Instituto de Astrofísica e Ciências do Espaço |
+| 45 | Ilídio André Costa | Agrupamento de Escolas de Santa Bárbara / Planetário do Porto - Centro Ciência Viva / Instituto de Astrofísica e Ciências do Espaço |
+| 46 | Israel Matute | Institute of Astrophysics and Space Sciences /FCUL |
+| 47 | Ivan Rybak | Instituto de Astrofísica e Ciências do Espaço (IA), Porto |
+| 48 | Jake Noel-Storr | University of Groningen |
+| 49 | Jarle Brinchmann | IA |
+| 50 | Jean Michel Silva de Miranda Gomes | Instituto de Astrofísica e Ciências do Espaço |
+| 51 | Joana Mingacho | LIP |
+| 52 | Joao Jose Feio Calhau | Instituto de Astrofisica de Canarias (IAC) |
+| 53 | José Afonso | Instituto de Astrofísica e Ciências do Espaço - FCUL |
+| 54 | José Eduardo Oliveira Silva | Instituto de Astrofísica e Ciências do Espaço - U.Lisboa |
+| 55 | José Ferreira | Faculdade de Ciências da Universidade de Lisboa |
+| 56 | José Laurindo de Góis Nóbrega Sobrinho | InsInstituto de Astrofísica e Ciências do Espaço / Grupo de Astronomia da UMa |
+| 57 | José Luís Fernandes Ribeiro | Instituto de Astrofísica e Ciências do Espaço |
+| 58 | José Pedro  Mimoso  | IA & Dep. FISICA, FCUL |
+| 59 | João Dias | Institute of Astrophysics and Space Sciences, Faculty of Sciences, U.Lisbon |
+| 60 | João Duarte | CENTRA/IST |
+| 61 | João Francisco Ferreira | Aristotle University of Thessaloniki |
+| 62 | João Ribeiro  | None |
+| 63 | João Rino-Silvestre | Centra, Instituto Superior Técnico |
+| 64 | Karolina Kubiak | CENTRA, U Lisboa |
+| 65 | Koraljka Muzic | CENTRA, Universidade de Lisboa |
+| 66 | Lara Piscarreta | FCUL |
+| 67 | Manuel César Gaspar Fecha | Escola Secundária de São Pedro do Sul |
+| 68 | Mariana Ferreira | FCUL |
+| 69 | Mariana P. Júlio | IA - CAUP |
+| 70 | Marina Cortês | Universidade Lisboa |
+| 71 | Marta André Botas | Faculdade de Ciências da Universidade de Lisboa |
+| 72 | Md Rasel Uddin   | Jashore University of Science and Technology, Bangladesh        |
+| 73 | Mercedes Filho | Faculdade de Engenharia da Universidade do Porto |
+| 74 | Miguel Conceição | FCUL/IA |
+| 75 | Miguel Tavares Clara | Instituto de Astrofísica e Ciências do Espaço |
+| 76 | Nuno Peixinho | Instituto de Astrofísica e Ciências do Espaço, Universidade de Coimbra |
+| 77 | Nuno Rosário | IA / CAUP |
+| 78 | Paulo Garcia | CENTRA/FEUP |
+| 79 | Pedro Augusto | FMUP |
+| 80 | Pedro Cunha | FCUP-IA Porto |
+| 81 | Pedro Guilherme Garcia | FCUL |
+| 82 | Pedro Machado | Instituto de Astrofísica e Ciências do Espaço |
+| 83 | Pedro Medeiros | Universidade de Aveiro |
+| 84 | Priscila Doran | NUCLIO |
+| 85 | Raul Cerveira Lima | Escola Superior de Saúde do Politécnico do Porto/Instituto de Astrofísica e Ciências do Espaço |
+| 86 | Raul Sarmento | LIP |
+| 87 | Rodrigo Carvajal | Institute of Astrophysics - University of Lisbon |
+| 88 | Rosa Doran | NUCLIO |
+| 89 | Rui Curado da Silva | LIP |
+| 90 | Rui Torres | GoLP/IPFN - Instituto Superior Técnico |
+| 91 | Rute Rodrigues | Rio Maior High School Portugal |
+| 92 | Sandra Raimundo | Univ. of Copenhagen / UCLA / Univ. of Southampton |
+| 93 | Santiago Gonzalez-Gaitan | CENTRA, Instituto Superior Técnico, Universidade de Lisboa |
+| 94 | Sara Anjos | NUCLIO/ University of Minho/ University of Leiden |
+| 95 | Sara Melissa Azevedo Freitas | Universidade do Porto |
+| 96 | Sara Nóbrega | FCUL/IA |
+| 97 | Sofia Trigo  | FCUL |
+| 98 | Stergios Amarantidis |  Institute of Astrophysics and Space Sciences |
+| 99 | Susana Carneiro | Faculdade de Ciências da Universidade de Lisboa |
+| 100 | Sílvia Vicente | IA - Institute of Astrophysics and Space Sciences |
+| 101 | Thibault Boulet | Centro de Astrofísica da Universidade do Porto |
+| 102 | Tiago Costa | Max-Planck-Institute for Astrophysics |
+| 103 | Tiago Gonçalves | Instituto de Astrofísica e Ciências do Espaço, Faculdade de Ciências da Universidade de Lisboa  |
+| 104 | Tomás Silva | Instituto de Astrofísica e Ciências do Espaço (IA) |
+| 105 | Vardan Adibekyan | Instituto de Astrofísica e Ciências do Espaço (IA) |
+| 106 | Vitor Bonifácio | CIDTFF, Physics Department, University of Aveiro |
+| 107 | Víctor Almendros-Abad | CENTRA FCUL |
+| 108 | Álvaro Manuel Folhas Ferreira | Agrupamento de escola de Águeda Sul / NUCLIO / CITEUC |

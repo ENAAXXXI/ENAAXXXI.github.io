@@ -28,6 +28,21 @@ Here we investigate the tessellation patterns of galaxies and galaxy clusters in
 
 
 
+## ID 76
+
+**Title**: In a land (not so) far away...Gender Stereotypes in Children's Books and Impacts on Career Choices
+
+**Author**: A. Nunes
+
+**Abstract**: By the age of 6, “girls already consider boys more likely to show brilliance and more suited to “really, really smart” activities than their own gender” (Bian, et al., 2017). 
+If you ask young children what they want to be when they grow up scientific jobs such as astronaut will appear high on the list, but if you ask them to draw a scientist, they are much more likely to draw a man than a woman (Miller et al., 2018). Why?  
+Gender biases and gender stereotypes can be the result of many agents and many sources. But one of the most important ones, are children's books. 
+Present even before birth, in the womb, books are a privileged vehicle to learn about the world and ourselves. Books can be important allies, as they are they are both a mirror and a window about who we are and who we can become. 
+This author would share some of the results of her investigations about gender stereotypes in awarded children's books in the Portuguese reality (Nunes, 2019) which seem to be in agreement with other international studies (Weitzman et. al, 1972, Naharara, 1998; Brugeilles, Cromer & Cromer, 2002; Hamilton et. al, 2006; Paynter, 2011), revealing a female underrepresentation and other gender inequalities in dimensions such as interests, skills, professions, hobbies, leisure time and household tasks.  
+The author would also like to share her experience as a book Author and present her children's book “Valente Valentina/Mighty Valentina (Caminho, 2019) inspired by the first women astronaut, Valentina Tereshkova. 
+
+
+
 ## ID 80
 
 **Title**: Near infrared H2 outflows through IFU observations: peering into the massive star forming region IRAS 18264-1152
